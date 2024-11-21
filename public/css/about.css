@@ -1,0 +1,65 @@
+
+
+/* Hero Section Styling */
+.container {
+    max-width: 1200px;    
+
+}
+.aboutus {
+    text-align: center; /* Center text horizontally */
+    margin-bottom: 25px; /* Space below the heading */
+    background-color: #fee3fb;
+
+}
+.about{
+    padding: 0px;
+    color: darkblue;
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.col-md-6 h2{
+    color: orangered;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.col-md-6 p{
+    font-size: 1.3rem;
+    color: rgb(80, 4, 4);
+    font-family: 'Times New Roman', Times, serif;
+}
+strong{
+    color: #9d2703;
+}
+.container img{
+    height: 340px;
+    border-radius: 50%;
+}
+.legal img{
+    width: 430px;
+}
+.community img{
+    width: 450px;
+}
+
+/* About Section Styling */
+.about-section img {
+    border-radius: 8px;
+}
+
+.about-section h2 {
+    color: #e64a19;
+}
+
+footer {
+    background-color: #f89ced;    
+}
+footer p{
+    text-align: center;
+    font-size: 1.2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.foot{
+    background-color: #fee3fb;
+}
